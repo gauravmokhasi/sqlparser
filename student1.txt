@@ -1,0 +1,6 @@
+{'Lname': 'Lname', 'Class': 'Class', 'Fname': 'Fname', 'Marks': 'Marks'}
+{'Lname': 'Mokhasi', 'Class': 12, 'Fname': 'Gaurav', 'Marks': 53}
+{'Lname': 'Morgan', 'Class': 10, 'Fname': 'Eoin', 'Marks': 57}
+{'Lname': 'Fiennes', 'Class': 12, 'Fname': 'Kelly', 'Marks': 43}
+{'Lname': 'Burns', 'Class': 12, 'Fname': 'Ralph', 'Marks': 73}
+{'Lname': 'Lloyd', 'Class': 12, 'Fname': 'Brooke', 'Marks': 13}

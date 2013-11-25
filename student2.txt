@@ -1,0 +1,4 @@
+{'Lname1': 'Lname1', 'Class1': 'Class1', 'Fname1': 'Fname1', 'Marks1': 'Marks1'}
+{'Lname1': 'Lamelo', 'Class1': 1, 'Fname1': 'Farid', 'Marks1': 40}
+{'Lname1': 'Lyon', 'Class1': 2, 'Fname1': 'Farah', 'Marks1': 30}
+{'Lname1': 'Lion', 'Class1': 3, 'Fname1': 'Fazal', 'Marks1': 20}
